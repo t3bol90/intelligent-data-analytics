@@ -1,0 +1,15 @@
+Outlook,Temperature,Humidity,Wind speed,Play cricket
+Sunny,,High,4,No
+Sunny,,High,20,No
+Overcast,Hot,High,6,Yes
+Rain,Mild,High,2,Yes
+Rain,Cool,Normal,7,Yes
+Rain,,Normal,,No
+Overcast,Cool,Normal,22,Yes
+Sunny,,High,4,No
+Sunny,Cool,Normal,5,Yes
+Rain,Mild,Normal,6,Yes
+Sunny,Mild,Normal,,Yes
+Overcast,Mild,High,2,Yes
+Overcast,,Normal,8,Yes
+Rain,Mild,High,18,No
